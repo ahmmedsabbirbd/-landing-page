@@ -1,0 +1,22 @@
+{
+  "name": "reco",
+  "version": "1.0.0",
+  "description": "Project of Spellon",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass assets/scss/main.scss css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "author": "spellon",
+  "license": "ISC",
+  "bugs": {
+    "url": "#"
+  },
+  "homepage": "#",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
