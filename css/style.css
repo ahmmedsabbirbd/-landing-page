@@ -518,6 +518,9 @@ label {
   .footer-area .copy-right-info .copy-right p {
     color: #bdbdbd; }
 
+.footer h1 {
+  color: yellow; }
+
 .social-profile a {
   width: 34px;
   height: 34px;
