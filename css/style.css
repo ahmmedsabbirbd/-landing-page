@@ -200,6 +200,9 @@ label {
   line-height: 58px;
   color: #2B343F; }
 
+.banner .title {
+  color: red; }
+
 .about-area .about-text h2 {
   font-size: 42px;
   line-height: 80px; }
